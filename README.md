@@ -1,6 +1,8 @@
 # MediVault-The-Smarter-Hospital-Management-System-
 🏥 MediVault — Healthcare Records System (Java)
+
 🔹About
+
 MediVault is a Java-based Healthcare Records System designed to streamline the storage, retrieval, and management of patient health information.
 It utilizes MySQL as a backend database and a JDBC connector to perform operations securely and efficiently.
 
@@ -43,16 +45,11 @@ MySQL: Database for persistent storage of patient data.
 
 Java: The main programming language for developing this application.
 
-Copyright:
+
+Copyright: 
 
 https://github.com/tanisha-rani
 
 https://github.com/Hubrishabh
 
-
-🔹License
-
-This project is licensed under the MIT License — see the LICENSE file for details.
-
-Copyright: 
 
